@@ -1,0 +1,158 @@
+Player Name: Virtual Player
+Power Score = 0
+Player Cards: 
+Name: Power+ [Power = 4]
+Name: Power- [Power = 5]
+Name: Steal
+Name: Power+ [Power = 4]
+Name: Power+ [Power = 3]
+
+****************************************************************************** 
+
+Player Name: Player1
+Power Score = 0
+Player Cards: 
+Name: Power- [Power = 5]
+Name: Power- [Power = 5]
+Name: Steal
+Name: Power+ [Power = 2]
+Name: Power- [Power = 3]
+Name: Power- [Power = 5]
+Player Name: Player1
+Power Score = 0
+Player Cards: 
+Name: Power- [Power = 5]
+Name: Steal
+Name: Power+ [Power = 2]
+Name: Power- [Power = 3]
+
+****************************************************************************** 
+
+Player Name: Virtual Player
+Power Score = -2
+Player Cards: 
+Name: Power+ [Power = 4]
+Name: Power- [Power = 5]
+Name: Steal
+Name: Power+ [Power = 4]
+
+****************************************************************************** 
+
+Player Name: Player1
+Power Score = 0
+Player Cards: 
+Name: Power- [Power = 5]
+Name: Steal
+Name: Power+ [Power = 2]
+Name: Power- [Power = 3]
+Name: Power- [Power = 5]
+Player Name: Player1
+Power Score = 0
+Player Cards: 
+Name: Steal
+Name: Power+ [Power = 2]
+Name: Power- [Power = 3]
+
+****************************************************************************** 
+
+Player Name: Virtual Player
+Power Score = -3
+Player Cards: 
+Name: Power- [Power = 5]
+Name: Steal
+Name: Power+ [Power = 4]
+Card Played: Name: Power- [Power = 5]
+Player Name: Virtual Player
+Power Score = -3
+Player Cards: 
+Name: Steal
+Name: Power+ [Power = 4]
+
+****************************************************************************** 
+
+Player Name: Player1
+Power Score = -5
+Player Cards: 
+Name: Steal
+Name: Power+ [Power = 2]
+Name: Power- [Power = 3]
+Card Played: Name: Power+ [Power = 2]
+Player Name: Player1
+Power Score = -3
+Player Cards: 
+Name: Steal
+Name: Power- [Power = 3]
+
+****************************************************************************** 
+
+Player Name: Virtual Player
+Power Score = -3
+Player Cards: 
+Name: Steal
+Name: Power+ [Power = 4]
+
+****************************************************************************** 
+
+Player Name: Player1
+Power Score = -3
+Player Cards: 
+Name: Steal
+Name: Power- [Power = 3]
+Card Played: Name: Steal
+Player Name: Player1
+Power Score = -3
+Player Cards: 
+Name: Power- [Power = 3]
+Name: Steal
+
+****************************************************************************** 
+
+Player Name: Virtual Player
+Power Score = 1
+Player Cards: 
+You Board is empty, Your turn has been skipped
+Player Name: Player1
+Power Score = -3
+Player Cards: 
+Name: Power- [Power = 3]
+Name: Steal
+Name: Power- [Power = 3]
+Player Name: Player1
+Power Score = -3
+Player Cards: 
+Name: Steal
+
+****************************************************************************** 
+
+Player Name: Virtual Player
+Power Score = -2
+Player Cards: 
+You Board is empty, Your turn has been skipped
+Player Name: Player1
+Power Score = -3
+Player Cards: 
+Name: Steal
+Card Played: Name: Steal
+Player Name: Player1
+Power Score = -3
+Player Cards: 
+Name: Power+ [Power = 1]
+
+****************************************************************************** 
+
+Player Name: Virtual Player
+Power Score = -2
+Player Cards: 
+You Board is empty, Your turn has been skipped
+Player Name: Player1
+Power Score = -3
+Player Cards: 
+Name: Power+ [Power = 1]
+Card Played: Name: Power+ [Power = 1]
+Player Name: Player1
+Power Score = -2
+Player Cards: 
+
+****************************************************************************** 
+
+Match is Draw
